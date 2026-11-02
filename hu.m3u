@@ -1,0 +1,267 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="DunaWorld.hu@SD" tvg-logo="https://i.imgur.com/uOBQJZS.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="General",Duna World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.7.14/live/duna_world_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="TV2Comedy.hu@SD" tvg-logo="https://i.imgur.com/B02hbcV.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Comedy",TV2 Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.7.14/live/tv2_comedy/index.m3u8
+
+#EXTINF:-1 tvg-id="TV2Kids.hu@SD" tvg-logo="https://i.imgur.com/Zltlezm.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",TV2 Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.7.14/live/tv2_kids/index.m3u8
+
+#EXTINF:-1 tvg-id="TV2Sef.hu@SD" tvg-logo="https://i.imgur.com/8GFj3XP.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",TV2 Sef
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_lichi_tv_atk_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FILMBOXPlusComedy.pl@Magyar" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Comedy Magyar (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_filmbox_family_hun_atk_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FILMBOXPlusEmotion.pl@Hungary" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Emotion Hungary (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FILMBOXPlusOne.pl@Magyar" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ One Magyar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Moziklub.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Moziklub.svg/1920px-Moziklub.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Entertainment",Moziklub
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.7.14/live/moziklub_atk/index.m3u8
+
+#EXTINF:-1 tvg-id="MagyarMoziTV.hu@SD" tvg-logo="https://i.imgur.com/cXajs8V.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Magyar Mozi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.7.14/live/mozi/index.m3u8
+
+#EXTINF:-1 tvg-id="FIXTV.hu@SD" tvg-logo="https://i.imgur.com/PLhh0Ps.png" group-title="Undefined",FIX TV (720p) [Not 24/7]
+https://fixhd.tv:8082/fix/1080i/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FEM3.hu@SD" tvg-logo="https://i.imgur.com/AF4Sz8Z.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",FEM3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_fem3_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sorozatklub.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sorozatklub.svg/1920px-Sorozatklub.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Entertainment",Sorozatklub
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://http://88.212.7.14//live/sorozatklub_atk/index.m3u8
+
+#EXTINF:-1 tvg-id="Spektrum.hu@SD" tvg-logo="https://i.imgur.com/GmFRQ82.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Documentary",Spektrum (Hungary)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://http://88.212.7.14//live/spektrum_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="Spiler1.hu@SD" tvg-logo="https://i.imgur.com/pbk8c4x.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Spiler 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://http://88.212.7.14//live/spiler1/index.m3u8
+
+#EXTINF:-1 tvg-id="Spiler2.hu@SD" tvg-logo="https://i.imgur.com/1e0VsVH.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Spiler 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://http://88.212.7.14//live/spiler2/index.m3u8
+
+#EXTINF:-1 tvg-id="TVEger.hu@SD" tvg-logo="https://i.imgur.com/GUVW073.png" group-title="Undefined",TV Eger (1080p)
+http://stream.tveger.hu:8010/live.m3u8
+
+#EXTINF:-1 tvg-id="Viasat2.hu@SD" tvg-logo="https://i.imgur.com/lEAhKPa.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",Viasat2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://http://88.212.7.14//live/viasat2/index.m3u8
+
+#EXTINF:-1 tvg-id="ATV.hu@SD" tvg-logo="https://i.imgur.com/85sIvrX.png" group-title="General",ATV (Hungary) (160p)
+https://streamservers.atv.hu/atvlive/atvstream_1_aac/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ATVSpirit.hu@SD" tvg-logo="https://i.imgur.com/JINE5xS.png" group-title="Undefined",ATV Spirit (360p)
+https://streamservers.atv.hu/atvliveedge/_definst_/atvstream_2_aac/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BabyFirst.us@US" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Kids",BabyFirst (720p)
+https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
+
+#EXTINF:-1 tvg-id="JimJam.hu@SD" tvg-logo="https://i.imgur.com/ODhkYyx.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Kids",JimJam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://http://88.212.7.14//live/jim_jam_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.hu@SD" tvg-logo="https://i.imgur.com/fXs8f6a.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Nickelodeon (Hungary)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://http://88.212.7.14//live/test_nickelodeon_hu_1200_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nicktoons.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Kids",Nicktoons (Hungary)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://http://88.212.7.14/live/nicktoons_hungary/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.hu@SD" tvg-logo="https://i.imgur.com/aOa73uT.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Disney Channel (Hungary)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://http://88.212.7.14//live/disney_channel_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="Prime.hu@SD" tvg-logo="https://i.imgur.com/VvZEP4s.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",Prime (Hungary)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://http://88.212.7.14//live/prime/index.m3u8
+
+#EXTINF:-1 tvg-id="RegioPluszTV.hu@SD" tvg-logo="https://i.imgur.com/VXPpukf.png" group-title="General",RegioPlusz TV (1080p) [Geo-blocked]
+https://stream.streaming4u.hu/RegioPluszTV/index.m3u8
+
+#EXTINF:-1 tvg-id="Zenebutik.hu@SD" tvg-logo="https://i.imgur.com/xGUlF78.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",Zenebutik
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://http://88.212.7.14//live/zenebutik/index.m3u8
+
+#EXTINF:-1 tvg-id="SlagerTV.hu@SD" tvg-logo="https://i.imgur.com/qDNRgSQ.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Music",Slager TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://http://88.212.7.14//live/test_slager_tv_hungary_1200_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DikhTV.hu@SD" tvg-logo="https://i.imgur.com/aAcORTL.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Culture",Dikh TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://http://88.212.7.14//live/dikh/index.m3u8
+
+#EXTINF:-1 tvg-id="HtMusicChannel.hu@SD" tvg-logo="https://i.imgur.com/sqC2hqV.png" group-title="Music",H!t Music Channel (480p)
+http://hitmusic.hu/hitmusic.m3u8
+
+#EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu@HD" tvg-logo="https://i.imgur.com/KcTTnUA.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Outdoor",The Fishing & Hunting Channel HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://http://88.212.7.14/live/fishing_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="WilliamsTV.hu@SD" tvg-logo="https://i.imgur.com/vysX07C.png" group-title="General",Williams TV (480p)
+http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
+
+
+
+
+
+# PREMIUM INNENTŐL:
+
+#EXTINF:-1,Moziverzum HD
+http://141.94.193.53:80/Moziverzum_HD/index.m3u8
+#EXTINF:-1,PRIME HD
+http://141.94.193.53:80/PRIME_HD/index.m3u8
+#EXTINF:1,Izaura TV HD
+http://141.94.193.53:80/Izaura_TV_HD/index.m3u8
+#EXTINF:-1,AMC
+http://141.94.193.53:80/AMC_HD/index.m3u8
+#EXTINF:-1,AXN HD
+http://141.94.193.53:80/AXN_HD/index.m3u8
+#EXTINF:-1,Axn Black
+http://141.94.193.53:80/axn_black/index.m3u8
+#EXTINF:-1,FilmBox
+http://141.94.193.53:80/FilmBox/index.m3u8
+#EXTINF:-1,film+ HD
+http://141.94.193.53:80/Film+_HD/index.m3u8
+#EXTINF:-1,Cinemax HD
+http://141.94.193.53:80/Cinemax_HD/index.m3u8
+#EXTINF:-1,Cinemax 2 HD
+http://141.94.193.53:80/Cinemax_2_HD/index.m3u8
+#EXTINF:-1,EpicDrama HD
+http://141.94.193.53:80/EpicDramaHD/index.m3u8
+#EXTINF:-1,VIASAT 3 HD
+http://141.94.193.53:80/VIASAT3_HD/index.m3u8
+#EXTINF:-1,VIASAT 6 HD
+http://141.94.193.53:80/VIASAT_6/index.m3u8
+#EXTINF:-1,HBO HD
+http://141.94.193.53:80/HBO_HD/index.m3u8
+#EXTINF:-1,HBO2 HD
+http://141.94.193.53:80/HBO2_HD/index.m3u8
+#EXTINF:-1,HBO3 HD
+http://141.94.193.53:80/HBO3_HD/index.m3u8
+#EXTINF:-1,TV4 HD
+http://141.94.193.53:80/TV4_HD/index.m3u8
+#EXTINF:-1,M1
+http://141.94.193.53:80/M1_HD/index.m3u8
+#EXTINF:-1,M2
+http://141.94.193.53:80/M2_HD/index.m3u8
+#EXTINF:-1,M4 Sport
+http://141.94.193.53:80/M4_Sport_HD/index.m3u8
+#EXTINF:-1,M5
+http://141.94.193.53:80/M5_HD/index.m3u8
+#EXTINF:-1,Arena4
+http://141.94.193.53:80/Arena4_HD/index.m3u8
+#EXTINF:-1,Sport 1 HD
+http://141.94.193.53:80/Sport_1_HD/index.m3u8
+#EXTINF:-1,Sport 2 HD
+http://141.94.193.53:80/Sport_2_HD/index.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://141.94.193.53:80/Eurosport_1_HD/index.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://141.94.193.53:80/Eurosport_2_HD/index.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://141.94.193.53:80/Discovery_Channel_HD/index.m3u8
+#EXTINF:-1,History HD
+http://141.94.193.53:80/History_HD/index.m3u8
+#EXTINF:-1,Viasat History
+http://141.94.193.53:80/Viasat_History_HD/index.m3u8
+#EXTINF:-1,Viasat Nature
+http://141.94.193.53:80/Viasat_Nature_HD/index.m3u8
+#EXTINF:-1,Viasat Explore_HD
+http://141.94.193.53:80/Viasat_Explore_HD/index.m3u8
+#EXTINF:-1,BBC Earth
+http://141.94.193.53:80/BBC_Earth_HD/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://141.94.193.53:80/Animal_Planet_HD/index.m3u8
+#EXTINF:-1,Nat Geo HD
+http://141.94.193.53:80/Nat_Geo_HD/index.m3u8
+#EXTINF:-1,Nat_Geo Wild_HD
+http://141.94.193.53:80/Nat_Geo_Wild_HD/index.m3u8
+#EXTINF:-1,Travel Channel_HD
+http://141.94.193.53:80/Travel_Channel_HD/index.m3u8
+#EXTINF:1,Spektrum Home
+http://141.94.193.53:80/Spektrum_Home_HD/index.m3u8
+#EXTINF:1,SuperTV2
+http://141.94.193.53:80/SuperTV2_HD/index.m3u8
+#EXTINF:-1,TV Paprika HD
+http://141.94.193.53:80/TV_Paprika_HD/index.m3u8
+#EXTINF:-1,Ozone TV HD
+http://141.94.193.53:80/OzoneTV_HD/index.m3u8
+#EXTINF:-1,HGTV
+http://141.94.193.53:80/HGTV_HD/index.m3u8
+#EXTINF:1,Muzsika TV
+http://141.94.193.53:80/Muzsika_TV/index.m3u8
+#EXTINF:-1,Minimax
+http://141.94.193.53:80/Minimax/index.m3u8
+#EXTINF:-1,Nick Jr
+http://141.94.193.53:80/Nick_Jr/index.m3u8
+#EXTINF:-1,COOL HD
+http://141.94.193.53:80/Cool_HD/index.m3u8
+#EXTINF:-1,Story4
+http://141.94.193.53:80/Story4_HD/index.m3u8
+#EXTINF:-1,Film4
+http://141.94.193.53:80/Film4_HD/index.m3u8
+#EXTINF:-1,Film Cafe
+http://141.94.193.53:80/Film_Cafe_HD/index.m3u8
+#EXTINF:-1,Galaxy4
+http://141.94.193.53:80/Galaxy4_HD/index.m3u8
+#EXTINF:-1,RTL
+http://141.94.193.53:80/RTL_HD/index.m3u8
+#EXTINF:1,RTL KETTO
+http://141.94.193.53:80/RTL_KETTO_HD/index.m3u8
+#EXTINF:1,RTL GOLD
+http://141.94.193.53:80/RTL_Gold/index.m3u8
+#EXTINF:1,RTL HAROM HD
+http://141.94.193.53:80/RTL_HAROM_HD/index.m3u8
+#EXTINF:-1,RTL OTTHON HD
+http://141.94.193.53:80/RTL_OTTHON_HD/index.m3u8
+#EXTINF:1,Sorozat+
+http://141.94.193.53:80/Sorozat+/index.m3u8
+#EXTINF:1,Film Mania HD
+http://141.94.193.53:80/Film_Mania_HD/index.m3u8
+#EXTINF:1,Life TV
+http://141.94.193.53:80/LifeTV_HD/index.m3u8
+#EXTINF:1,Mozi+ TV HD Magyar
+http://141.94.193.53:80/Mozi+_HD/index.m3u8
+#EXTINF:1,Jocky TV
+http://141.94.193.53:80/Jocky_TV/index.m3u8
+#EXTINF:1,ATV Spirit
+http://141.94.193.53:80/ATV_Spirit_HD/index.m3u8
+#EXTINF:-1,ATV
+http://141.94.193.53:80/ATV_HD/index.m3u8
+#EXTINF:-1,Duna
+http://141.94.193.53:80/Duna_HD/index.m3u8
+#EXTINF:-1 tvg-id="TV2.hu@HD" tvg-name="TV2 HD" tvg-logo="https://i.imgur.com/uOBQJZS.png" group-title="General",TV2
+http://141.94.193.53:80/TV2_HD/index.m3u8
+#EXTINF:1,HirTV
+http://141.94.193.53:80/HirTV_HD/index.m3u8
+#EXTINF:-1,EuroNews
+http://141.94.193.53:80/EuroNews_HD/index.m3u8
+
+
+#free
+#EXTINF:-1 tvg-id="TLC.hu@SD" tvg-name="TLC" tvg-logo="https://i.imgur.com/uOBQJZS.png" group-title="Entertainment",TLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.7.14//live/tlc_hungary/index.m3u8
+
+
+# Bab Ádám 2026
