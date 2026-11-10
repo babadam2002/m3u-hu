@@ -36,9 +36,9 @@ http://141.94.193.53:80/HBO3_HD/index.m3u8
 #EXTINF:-1,TV4 HD
 http://141.94.193.53:80/TV4_HD/index.m3u8
 #EXTINF:-1,M1 HD
-http://141.94.193.53:80/M1_HD/index.m3u8
+http://193.33.39.108:9000/play/a040
 #EXTINF:-1,M2 HD
-http://141.94.193.53:80/M2_HD/index.m3u8
+http://193.33.39.108:9000/play/a04p
 #EXTINF:-1,M4 Sport HD
 http://141.94.193.53:80/M4_Sport_HD/index.m3u8
 #EXTINF:-1,M5 HD
@@ -126,7 +126,7 @@ http://141.94.193.53:80/ATV_HD/index.m3u8
 #EXTINF:-1,Duna HD
 http://141.94.193.53:80/Duna_HD/index.m3u8
 #EXTINF:-1,TV2 HD
-http://141.94.193.53:80/TV2_HD/index.m3u8
+http://193.33.39.108:9000/play/a03z
 #EXTINF:1,HirTV HD
 http://141.94.193.53:80/HirTV_HD/index.m3u8
 #EXTINF:-1,EuroNews HD
