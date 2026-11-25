@@ -1,9 +1,9 @@
 #EXTM3U
 # PREMIUM INNENTŐL 8-9mp késés a rendes tvhez képest:
 
-#EXTINF:-1,M1
+#EXTINF:-1 tvg-id="M1 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_43/logo?aspect=16x9&height=32&imageFormat=png",M1
 http://193.33.39.108:9000/play/a04o
-#EXTINF:-1,M2 / Petofi
+#EXTINF:-1 tvg-id="M2 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_44/logo?aspect=16x9&height=32&imageFormat=png",M2 / Petofi
 http://193.33.39.108:9000/play/a04p
 #EXTINF:-1,DIGI Sport 1 HD RO
 http://193.33.39.108:9000/play/a04d
@@ -11,89 +11,89 @@ http://193.33.39.108:9000/play/a04d
 http://193.33.39.108:9000/play/a04e
 #EXTINF:-1,PRO TV HD
 http://193.33.39.108:9000/play/a05x
-#EXTINF:-1,Viasat3
+#EXTINF:-1 tvg-id="Viasat3 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_97/logo?aspect=16x9&height=32&imageFormat=png",Viasat3
 http://193.33.39.108:9000/play/a04t
-#EXTINF:-1,Viasat6
+#EXTINF:-1 tvg-id="Viasat6" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_98/logo?aspect=16x9&height=32&imageFormat=png",Viasat6
 http://193.33.39.108:9000/play/a04u
-#EXTINF:-1,Viasat Nature
+#EXTINF:-1 tvg-id="Viasat Nature HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_96/logo?aspect=16x9&height=32&imageFormat=png",Viasat Nature
 http://193.33.39.108:9000/play/a05r
-#EXTINF:-1,Spiler2 TV.
+#EXTINF:-1 tvg-id="Spíler2 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_80/logo?aspect=16x9&height=32&imageFormat=png",Spiler2 TV.
 http://193.33.39.108:9000/play/a04w
-#EXTINF:-1,Film+
+#EXTINF:-1 tvg-id="Film+ HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_27/logo?aspect=16x9&height=32&imageFormat=png",Film+
 http://193.33.39.108:9000/play/a056
-#EXTINF:-1,Spektrum
+#EXTINF:-1 tvg-id="Spektrum HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_185/logo?aspect=16x9&height=32&imageFormat=png",Spektrum
 http://193.33.39.108:9000/play/a04r
-#EXTINF:-1,Spiler2 TV
+#EXTINF:-1 tvg-id="Spíler2 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_80/logo?aspect=16x9&height=32&imageFormat=png",Spiler2 TV
 http://193.33.39.108:9000/play/a04v
-#EXTINF:-1,FILMBOX+ Comedy
+#EXTINF:-1 tvg-id="FILMBOX+ comedy" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_146/logo?aspect=16x9&height=32&imageFormat=png",FILMBOX+ Comedy
 http://193.33.39.108:9000/play/a05y
-#EXTINF:-1,HirTV
+#EXTINF:-1 tvg-id="Hír TV HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_35/logo?aspect=16x9&height=32&imageFormat=png",HirTV
 http://193.33.39.108:9000/play/a05a
-#EXTINF:-1,JimJam HU
+#EXTINF:-1 tvg-id="Jim Jam" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_160/logo?aspect=16x9&height=32&imageFormat=png",JimJam HU
 http://193.33.39.108:9000/play/a04n
-#EXTINF:-1,Film Cafe
+#EXTINF:-1 tvg-id="Film Cafe HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_140/logo?aspect=16x9&height=32&imageFormat=png",Film Cafe
 http://193.33.39.108:9000/play/a058
-#EXTINF:-1,TV Paprika
+#EXTINF:-1 tvg-id="TV Paprika HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_195/logo?aspect=16x9&height=32&imageFormat=png",TV Paprika
 http://193.33.39.108:9000/play/a04s
-#EXTINF:-1,Film Cafe
+#EXTINF:-1 tvg-id="Film Cafe HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_140/logo?aspect=16x9&height=32&imageFormat=png",Film Cafe
 http://193.33.39.108:9000/play/a059
-#EXTINF:-1,TV2 HD
+#EXTINF:-1 tvg-id="TV2 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_89/logo?aspect=16x9&height=32&imageFormat=png",TV2 HD
 http://193.33.39.108:9000/play/a03z
-#EXTINF:-1,M1 HD
+#EXTINF:-1 tvg-id="M1 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_43/logo?aspect=16x9&height=32&imageFormat=png",M1 HD
 http://193.33.39.108:9000/play/a040
 
 
 #EXTINF:-1,Sport 1 SK HD
 http://193.33.39.108:9001/play/a02f
-#EXTINF:-1,Arena 4 HD
+#EXTINF:-1 tvg-id="Arena4 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_200/logo?aspect=16x9&height=32&imageFormat=png",Arena 4 HD
 http://193.33.39.108:9001/play/a02a
-#EXTINF:-1,M4 Sport HD
+#EXTINF:-1 tvg-id="M4 Sport HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_46/logo?aspect=16x9&height=32&imageFormat=png",M4 Sport HD
 http://193.33.39.108:9001/play/a02h
 #EXTINF:-1,Bloomberg
 http://193.33.39.108:9001/play/a029
-#EXTINF:-1,FILMBOX+ One
+#EXTINF:-1 tvg-id="FILMBOX+ one" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_113/logo?aspect=16x9&height=32&imageFormat=png",FILMBOX+ One
 http://193.33.39.108:9001/play/a039
-#EXTINF:-1,Spektrum Home
+#EXTINF:-1 tvg-id="Spektrum Home HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_186/logo?aspect=16x9&height=32&imageFormat=png",Spektrum Home
 http://193.33.39.108:9001/play/a035
 #EXTINF:-1,Minimax CZ
 http://193.33.39.108:9001/play/a036
-#EXTINF:-1,RTL OTTHON
+#EXTINF:-1 tvg-id="RTL Otthon HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_220/logo?aspect=16x9&height=32&imageFormat=png",RTL OTTHON
 http://193.33.39.108:9001/play/a02j
-#EXTINF:-1,Kolyokklub
+#EXTINF:-1 tvg-id="Kölyök Klub HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_223/logo?aspect=16x9&height=32&imageFormat=png",Kolyokklub
 http://193.33.39.108:9001/play/a02i
-#EXTINF:-1,Sport 2 HD
+#EXTINF:-1 tvg-id="Sport2 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_189/logo?aspect=16x9&height=32&imageFormat=png",Sport 2 HD
 http://193.33.39.108:9001/play/a024
 #EXTINF:-1,TV Paprika CZ/SK
 http://193.33.39.108:9001/play/a02e
-#EXTINF:-1,Duna HD
+#EXTINF:-1 tvg-id="Duna HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_18/logo?aspect=16x9&height=32&imageFormat=png",Duna HD
 http://193.33.39.108:9001/play/a02g
 
-#EXTINF:-1,ATV
+#EXTINF:-1 tvg-id="ATV HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_2/logo?aspect=16x9&height=32&imageFormat=png",ATV
 http://193.33.39.108:9002/play/a01n
-#EXTINF:-1,ATV Extra
+#EXTINF:-1 tvg-id="ATV Extra" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_101/logo?aspect=16x9&height=32&imageFormat=png",ATV Extra
 http://193.33.39.108:9002/play/a01m
-#EXTINF:-1,Sorozat+
+#EXTINF:-1 tvg-id="Sorozat +" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_77/logo?aspect=16x9&height=32&imageFormat=png",Sorozat+
 http://193.33.39.108:9002/play/a01b
-#EXTINF:-1,RTL KETTO
+#EXTINF:-1 tvg-id="RTL KETTÕ" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_69/logo?aspect=16x9&height=32&imageFormat=png",RTL KETTO
 http://193.33.39.108:9002/play/a019
-#EXTINF:-1,RTL HAROM
+#EXTINF:-1 tvg-id="RTL HÁROM" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_72/logo?aspect=16x9&height=32&imageFormat=png",RTL HAROM
 http://193.33.39.108:9002/play/a01a
-#EXTINF:-1,RTL GOLD
+#EXTINF:-1 tvg-id="RTL Gold" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_68/logo?aspect=16x9&height=32&imageFormat=png",RTL GOLD
 http://193.33.39.108:9002/play/a01e
-#EXTINF:-1,Muzsika TV
+#EXTINF:-1 tvg-id="Muzsika TV" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_58/logo?aspect=16x9&height=32&imageFormat=png",Muzsika TV
 http://193.33.39.108:9002/play/a01c
-#EXTINF:-1,Minimax HU
+#EXTINF:-1 tvg-id="Minimax" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_167/logo?aspect=16x9&height=32&imageFormat=png",Minimax HU
 http://193.33.39.108:9002/play/a01y
 #EXTINF:-1,Film+ CZE
 http://193.33.39.108:9002/play/a01x
-#EXTINF:-1,CNN
+#EXTINF:-1 tvg-id="CNN International" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_10/logo?aspect=16x9&height=32&imageFormat=png",CNN
 http://193.33.39.108:9002/play/a016
-#EXTINF:-1,CANAL+ Action
+#EXTINF:-1 tvg-id="Canal+ Action" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_232/logo?aspect=16x9&height=32&imageFormat=png",CANAL+ Action
 http://193.33.39.108:9002/play/a01o
 
 
 http://193.33.39.108:9003/play/a01a
-#EXTINF:-1,Travel Channel
+#EXTINF:-1 tvg-id="Travel Channel HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_87/logo?aspect=16x9&height=32&imageFormat=png",Travel Channel
 http://193.33.39.108:9003/play/a01b
 
 #EXTINF:-1,:SPORT HD
@@ -102,209 +102,209 @@ http://193.33.39.108:9004/play/a01p
 http://193.33.39.108:9004/play/a01t
 
 
-#EXTINF:-1,m5 HD
+#EXTINF:-1 tvg-id="M5 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_47/logo?aspect=16x9&height=32&imageFormat=png",m5 HD
 http://193.33.39.108:9005/play/a01i
-#EXTINF:-1,Nat Geo Wild HD
+#EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_60/logo?aspect=16x9&height=32&imageFormat=png",Nat Geo Wild HD
 http://193.33.39.108:9005/play/a02g
-#EXTINF:-1,RTL HAROM HD
+#EXTINF:-1 tvg-id="RTL HÁROM" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_72/logo?aspect=16x9&height=32&imageFormat=png",RTL HAROM HD
 http://193.33.39.108:9005/play/a01t
-#EXTINF:-1,RTL HD
+#EXTINF:-1 tvg-id="RTL HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_70/logo?aspect=16x9&height=32&imageFormat=png",RTL HD
 http://193.33.39.108:9005/play/a018
-#EXTINF:-1,RTL KETTO HD
+#EXTINF:-1 tvg-id="RTL KETTÕ" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_69/logo?aspect=16x9&height=32&imageFormat=png",RTL KETTO HD
 http://193.33.39.108:9005/play/a01r
-#EXTINF:-1,TV2 HD
+#EXTINF:-1 tvg-id="TV2 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_89/logo?aspect=16x9&height=32&imageFormat=png",TV2 HD
 http://193.33.39.108:9005/play/a01q
-#EXTINF:-1,M2/Petofi TV HD
+#EXTINF:-1 tvg-id="M2 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_44/logo?aspect=16x9&height=32&imageFormat=png",M2/Petofi TV HD
 http://193.33.39.108:9005/play/a021
 #EXTINF:-1,Love Nature HD
 http://193.33.39.108:9005/play/a01s
-#EXTINF:-1,FILMBOX+ Hits
+#EXTINF:-1 tvg-id="FILMBOX+ hits" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_148/logo?aspect=16x9&height=32&imageFormat=png",FILMBOX+ Hits
 http://193.33.39.108:9005/play/a02h
-#EXTINF:-1,FILMBOX+ Emotion HD
+#EXTINF:-1 tvg-id="FILMBOX+ emotion HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_145/logo?aspect=16x9&height=32&imageFormat=png",FILMBOX+ Emotion HD
 http://193.33.39.108:9005/play/a02i
-#EXTINF:-1,Sport 1 HD
+#EXTINF:-1 tvg-id="Sport1 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_191/logo?aspect=16x9&height=32&imageFormat=png",Sport 1 HD
 http://193.33.39.108:9005/play/a017
 
 #EXTINF:-1,AXN Black
 http://193.33.39.108:9007/play/a01k
 #EXTINF:-1,AXN White
 http://193.33.39.108:9007/play/a01j
-#EXTINF:-1,Zenebutik
+#EXTINF:-1 tvg-id="Zenebutik" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_100/logo?aspect=16x9&height=32&imageFormat=png",Zenebutik
 http://193.33.39.108:9007/play/a00y
-#EXTINF:-1,Viasat History
+#EXTINF:-1 tvg-id="Viasat History HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_95/logo?aspect=16x9&height=32&imageFormat=png",Viasat History
 http://193.33.39.108:9007/play/a00p
-#EXTINF:-1,TV4.
+#EXTINF:-1 tvg-id="TV4 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_90/logo?aspect=16x9&height=32&imageFormat=png",TV4.
 http://193.33.39.108:9007/play/a017
-#EXTINF:-1,TV4
+#EXTINF:-1 tvg-id="TV4 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_90/logo?aspect=16x9&height=32&imageFormat=png",TV4
 http://193.33.39.108:9007/play/a00v
-#EXTINF:-1,Duna World/M4 Sport+
+#EXTINF:-1 tvg-id="Duna World HD / M4 Sport+ HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_19/logo?aspect=16x9&height=32&imageFormat=png",Duna World/M4 Sport+
 http://193.33.39.108:9007/play/a02q
-#EXTINF:-1,FILMBOX+ Love & Crime
+#EXTINF:-1 tvg-id="FILMBOX+ love&crime" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_147/logo?aspect=16x9&height=32&imageFormat=png",FILMBOX+ Love & Crime
 http://193.33.39.108:9007/play/a02s
-#EXTINF:-1,m5
+#EXTINF:-1 tvg-id="M5 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_47/logo?aspect=16x9&height=32&imageFormat=png",m5
 http://193.33.39.108:9007/play/a00w
-#EXTINF:-1,Nat Geo
+#EXTINF:-1 tvg-id="Nat Geo HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_59/logo?aspect=16x9&height=32&imageFormat=png",Nat Geo
 http://193.33.39.108:9007/play/a00n
-#EXTINF:-1,TV2 Kids
+#EXTINF:-1 tvg-id="TV2 Kids" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_40/logo?aspect=16x9&height=32&imageFormat=png",TV2 Kids
 http://193.33.39.108:9007/play/a012
-#EXTINF:-1,TV2 Kids.
+#EXTINF:-1 tvg-id="TV2 Kids" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_40/logo?aspect=16x9&height=32&imageFormat=png",TV2 Kids.
 http://193.33.39.108:9007/play/a01m
-#EXTINF:-1,TV2 Sef
+#EXTINF:-1 tvg-id="TV2 Séf" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_41/logo?aspect=16x9&height=32&imageFormat=png",TV2 Sef
 http://193.33.39.108:9007/play/a00m
-#EXTINF:-1,TV2 Sef.
+#EXTINF:-1 tvg-id="TV2 Séf" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_41/logo?aspect=16x9&height=32&imageFormat=png",TV2 Sef.
 http://193.33.39.108:9007/play/a014
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_9/logo?aspect=16x9&height=32&imageFormat=png",Cartoon Network
 http://193.33.39.108:9007/play/a00l
-#EXTINF:-1,AMC HU
+#EXTINF:-1 tvg-id="AMC HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_119/logo?aspect=16x9&height=32&imageFormat=png",AMC HU
 http://193.33.39.108:9007/play/a01d
-#EXTINF:-1,Cartoon Network.
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_9/logo?aspect=16x9&height=32&imageFormat=png",Cartoon Network.
 http://193.33.39.108:9007/play/a015
-#EXTINF:-1,TV2 Comedy
+#EXTINF:-1 tvg-id="TV2 Comedy" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_37/logo?aspect=16x9&height=32&imageFormat=png",TV2 Comedy
 http://193.33.39.108:9007/play/a00x
-#EXTINF:-1,TV2 Comedy.
+#EXTINF:-1 tvg-id="TV2 Comedy" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_37/logo?aspect=16x9&height=32&imageFormat=png",TV2 Comedy.
 http://193.33.39.108:9007/play/a00z
 
 
 
-#EXTINF:-1,Galaxy4
+#EXTINF:-1 tvg-id="Galaxy4 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_33/logo?aspect=16x9&height=32&imageFormat=png",Galaxy4
 http://193.33.39.108:9008/play/a00s
-#EXTINF:-1,Cool TV
+#EXTINF:-1 tvg-id="Cool HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_13/logo?aspect=16x9&height=32&imageFormat=png",Cool TV
 http://193.33.39.108:9008/play/a01q
-#EXTINF:-1,Viasat Nature
+#EXTINF:-1 tvg-id="Viasat Nature HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_96/logo?aspect=16x9&height=32&imageFormat=png",Viasat Nature
 http://193.33.39.108:9008/play/a01u
-#EXTINF:-1,TV2
+#EXTINF:-1 tvg-id="TV2 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_89/logo?aspect=16x9&height=32&imageFormat=png",TV2
 http://193.33.39.108:9008/play/a01o
-#EXTINF:-1,Max4
+#EXTINF:-1 tvg-id="Max4" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_217/logo?aspect=16x9&height=32&imageFormat=png",Max4
 http://193.33.39.108:9008/play/a01b
-#EXTINF:-1,MATCH4
+#EXTINF:-1 tvg-id="Match4 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_216/logo?aspect=16x9&height=32&imageFormat=png",MATCH4
 http://193.33.39.108:9008/play/a01f
-#EXTINF:-1,Hir TV
+#EXTINF:-1 tvg-id="Hír TV HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_35/logo?aspect=16x9&height=32&imageFormat=png",Hir TV
 http://193.33.39.108:9008/play/a01t
-#EXTINF:-1,Film 4
+#EXTINF:-1 tvg-id="Film4 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_28/logo?aspect=16x9&height=32&imageFormat=png",Film 4
 http://193.33.39.108:9008/play/a018
-#EXTINF:-1,Eurosport HU
+#EXTINF:-1 tvg-id="Eurosport1 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_22/logo?aspect=16x9&height=32&imageFormat=png",Eurosport HU
 http://193.33.39.108:9008/play/a01d
-#EXTINF:-1,Dikh TV
+#EXTINF:-1 tvg-id="Dikh TV HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_106/logo?aspect=16x9&height=32&imageFormat=png",Dikh TV
 http://193.33.39.108:9008/play/a01g
-#EXTINF:-1,Spiler 1
+#EXTINF:-1 tvg-id="Spíler1 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_81/logo?aspect=16x9&height=32&imageFormat=png",Spiler 1
 http://193.33.39.108:9008/play/a01w
-#EXTINF:-1,Animal Planet
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_112/logo?aspect=16x9&height=32&imageFormat=png",Animal Planet
 http://193.33.39.108:9008/play/a01j
-#EXTINF:-1,RTL
+#EXTINF:-1 tvg-id="RTL HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_70/logo?aspect=16x9&height=32&imageFormat=png",RTL
 http://193.33.39.108:9008/play/a01p
 
 
-#EXTINF:-1,TLC
+#EXTINF:-1 tvg-id="TLC" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_86/logo?aspect=16x9&height=32&imageFormat=png",TLC
 http://193.33.39.108:9009/play/a03m
 #EXTINF:-1,Viasat Film
 http://193.33.39.108:9009/play/a028
-#EXTINF:-1,Arena4
+#EXTINF:-1 tvg-id="Arena4 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_200/logo?aspect=16x9&height=32&imageFormat=png",Arena4
 http://193.33.39.108:9009/play/a02i
 #EXTINF:-1,AXN CE
 http://193.33.39.108:9009/play/a02d
 #EXTINF:-1,Blue Hustler
 http://193.33.39.108:9009/play/a025
-#EXTINF:-1,Cinemax2
+#EXTINF:-1 tvg-id="Cinemax 2 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_127/logo?aspect=16x9&height=32&imageFormat=png",Cinemax2
 http://193.33.39.108:9009/play/a024
-#EXTINF:-1,Cool
+#EXTINF:-1 tvg-id="Cool HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_13/logo?aspect=16x9&height=32&imageFormat=png",Cool
 http://193.33.39.108:9009/play/a03n
-#EXTINF:-1,Duna TV
+#EXTINF:-1 tvg-id="Duna HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_18/logo?aspect=16x9&height=32&imageFormat=png",Duna TV
 http://193.33.39.108:9009/play/a02j
-#EXTINF:-1,FEM3
+#EXTINF:-1 tvg-id="FEM3" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_24/logo?aspect=16x9&height=32&imageFormat=png",FEM3
 http://193.33.39.108:9009/play/a01y
-#EXTINF:-1,FEM3.
+#EXTINF:-1 tvg-id="FEM3" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_24/logo?aspect=16x9&height=32&imageFormat=png",FEM3.
 http://193.33.39.108:9009/play/a029
 #EXTINF:-1,Hustler
 http://193.33.39.108:9009/play/a02a
-#EXTINF:-1,Prime
+#EXTINF:-1 tvg-id="Prime HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_66/logo?aspect=16x9&height=32&imageFormat=png",Prime
 http://193.33.39.108:9009/play/a022
-#EXTINF:-1,Prime.
+#EXTINF:-1 tvg-id="Prime HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_66/logo?aspect=16x9&height=32&imageFormat=png",Prime.
 http://193.33.39.108:9009/play/a02e
 #EXTINF:-1,Private TV
 http://193.33.39.108:9009/play/a020
-#EXTINF:-1,SuperTV2
+#EXTINF:-1 tvg-id="Super TV2 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_85/logo?aspect=16x9&height=32&imageFormat=png",SuperTV2
 http://193.33.39.108:9009/play/a01z
-#EXTINF:-1,Viasat 2
+#EXTINF:-1 tvg-id="Viasat 2" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_75/logo?aspect=16x9&height=32&imageFormat=png",Viasat 2
 http://193.33.39.108:9009/play/a023
-#EXTINF:-1,Moziklub
+#EXTINF:-1 tvg-id="Mozi klub" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_219/logo?aspect=16x9&height=32&imageFormat=png",Moziklub
 http://193.33.39.108:9009/play/a01x
-#EXTINF:-1,Sorozatklub
+#EXTINF:-1 tvg-id="Sorozat klub" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_221/logo?aspect=16x9&height=32&imageFormat=png",Sorozatklub
 http://193.33.39.108:9009/play/a01w
 
 
-#EXTINF:-1,Sport2 HD
+#EXTINF:-1 tvg-id="Sport2 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_189/logo?aspect=16x9&height=32&imageFormat=png",Sport2 HD
 http://193.33.39.108:9010/play/a015
-#EXTINF:-1,Jocky TV
+#EXTINF:-1 tvg-id="Jocky TV" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_103/logo?aspect=16x9&height=32&imageFormat=png",Jocky TV
 http://193.33.39.108:9010/play/a01t
 #EXTINF:-1,HBO 3 Angol
 http://193.33.39.108:9010/play/a01z
-#EXTINF:-1,Izaura TV
+#EXTINF:-1 tvg-id="Izaura TV" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_38/logo?aspect=16x9&height=32&imageFormat=png",Izaura TV
 http://193.33.39.108:9010/play/a01u
-#EXTINF:-1,M4 Sport
+#EXTINF:-1 tvg-id="M4 Sport HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_46/logo?aspect=16x9&height=32&imageFormat=png",M4 Sport
 http://193.33.39.108:9010/play/a017
-#EXTINF:-1,Magyar ATV
+#EXTINF:-1 tvg-id="ATV HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_2/logo?aspect=16x9&height=32&imageFormat=png",Magyar ATV
 http://193.33.39.108:9010/play/a01p
-#EXTINF:-1,Magyar Mozi TV
+#EXTINF:-1 tvg-id="Magyar Mozi TV" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_218/logo?aspect=16x9&height=32&imageFormat=png",Magyar Mozi TV
 http://193.33.39.108:9010/play/a01i
-#EXTINF:-1,Mozi+
+#EXTINF:-1 tvg-id="Mozi+ HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_50/logo?aspect=16x9&height=32&imageFormat=png",Mozi+
 http://193.33.39.108:9010/play/a01r
-#EXTINF:-1,Moziverzum
+#EXTINF:-1 tvg-id="Moziverzum HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_102/logo?aspect=16x9&height=32&imageFormat=png",Moziverzum
 http://193.33.39.108:9010/play/a01s
-#EXTINF:-1,Ozone TV
+#EXTINF:-1 tvg-id="OzoneTV" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_64/logo?aspect=16x9&height=32&imageFormat=png",Ozone TV
 http://193.33.39.108:9010/play/a01y
-#EXTINF:-1,Viasat History HU
+#EXTINF:-1 tvg-id="Viasat History HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_95/logo?aspect=16x9&height=32&imageFormat=png",Viasat History HU
 http://193.33.39.108:9010/play/a01x
-#EXTINF:-1,Super TV2
+#EXTINF:-1 tvg-id="Super TV2 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_85/logo?aspect=16x9&height=32&imageFormat=png",Super TV2
 http://193.33.39.108:9010/play/a01m
-#EXTINF:-1,MATCH4 HD
+#EXTINF:-1 tvg-id="Match4 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_216/logo?aspect=16x9&height=32&imageFormat=png",MATCH4 HD
 http://193.33.39.108:9010/play/a019
 
 
-#EXTINF:-1,Nick Junior Hungary
+#EXTINF:-1 tvg-id="Nick Jr" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_61/logo?aspect=16x9&height=32&imageFormat=png",Nick Junior Hungary
 http://193.33.39.108:9011/play/a019
-#EXTINF:-1,Nickelodeon Hungary
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_172/logo?aspect=16x9&height=32&imageFormat=png",Nickelodeon Hungary
 http://193.33.39.108:9011/play/a017
-#EXTINF:-1,Nicktoons Hungary
+#EXTINF:-1 tvg-id="Nicktoons SD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_104/logo?aspect=16x9&height=32&imageFormat=png",Nicktoons Hungary
 http://193.33.39.108:9011/play/a01b
 
 
-#EXTINF:-1,Slager TV
+#EXTINF:-1 tvg-id="Sláger TV" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_74/logo?aspect=16x9&height=32&imageFormat=png",Slager TV
 http://193.33.39.108:9014/play/a01g
-#EXTINF:-1,Fishing&Hunting
+#EXTINF:-1 tvg-id="Fishing and Hunting" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_30/logo?aspect=16x9&height=32&imageFormat=png",Fishing&Hunting
 http://193.33.39.108:9014/play/a01f
 #EXTINF:-1,Music Channel
 http://193.33.39.108:9014/play/a01e
 
-#EXTINF:-1,RTL
+#EXTINF:-1 tvg-id="RTL HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_70/logo?aspect=16x9&height=32&imageFormat=png",RTL
 http://193.33.39.108:9015/play/a010
-#EXTINF:-1,Film Mania
+#EXTINF:-1 tvg-id="Film Mania HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_141/logo?aspect=16x9&height=32&imageFormat=png",Film Mania
 http://193.33.39.108:9015/play/a00v
 
 #EXTINF:-1,CNN Prima News
 http://193.33.39.108:9016/play/a027
 #EXTINF:-1,CS Film/CS Horror
 http://193.33.39.108:9016/play/a022
-#EXTINF:-1,Docubox
+#EXTINF:-1 tvg-id="Docubox" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_132/logo?aspect=16x9&height=32&imageFormat=png",Docubox
 http://193.33.39.108:9016/play/a02e
 #EXTINF:-1,EroXXX
 http://193.33.39.108:9016/play/a02f
-#EXTINF:-1,FightBox
+#EXTINF:-1 tvg-id="Fightbox" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_139/logo?aspect=16x9&height=32&imageFormat=png",FightBox
 http://193.33.39.108:9016/play/a02g
 #EXTINF:-1,TV8
 http://193.33.39.108:9016/play/a016
-#EXTINF:-1,Mezzo
+#EXTINF:-1 tvg-id="Mezzo HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_166/logo?aspect=16x9&height=32&imageFormat=png",Mezzo
 http://193.33.39.108:9016/play/a01t
-#EXTINF:-1,CANAL+ Action HD
+#EXTINF:-1 tvg-id="Canal+ Action" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_232/logo?aspect=16x9&height=32&imageFormat=png",CANAL+ Action HD
 http://193.33.39.108:9016/play/a02n
-#EXTINF:-1,Nat Geo HD HU
+#EXTINF:-1 tvg-id="Nat Geo HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_59/logo?aspect=16x9&height=32&imageFormat=png",Nat Geo HD HU
 http://193.33.39.108:9016/play/a01z
 #EXTINF:-1,Slager Original
 http://193.33.39.108:9016/play/a02b
-#EXTINF:-1,Sport 2 HD HU
+#EXTINF:-1 tvg-id="Sport2 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_189/logo?aspect=16x9&height=32&imageFormat=png",Sport 2 HD HU
 http://193.33.39.108:9016/play/a02l
 #EXTINF:-1,TA3
 http://193.33.39.108:9016/play/a01a
-#EXTINF:-1,Film+ HD
+#EXTINF:-1 tvg-id="Film+ HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_27/logo?aspect=16x9&height=32&imageFormat=png",Film+ HD
 http://193.33.39.108:9016/play/a01f
 
 
@@ -316,82 +316,82 @@ http://193.33.39.108:9017/play/a00x
 http://193.33.39.108:9017/play/a010
 #EXTINF:-1,HBO HD Angol
 http://193.33.39.108:9017/play/a00z
-#EXTINF:-1,FILMBOX+ hits HD
+#EXTINF:-1 tvg-id="FILMBOX+ hits" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_148/logo?aspect=16x9&height=32&imageFormat=png",FILMBOX+ hits HD
 http://193.33.39.108:9017/play/a01m
-#EXTINF:-1,Eurosport 1 HD
+#EXTINF:-1 tvg-id="Eurosport1 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_22/logo?aspect=16x9&height=32&imageFormat=png",Eurosport 1 HD
 http://193.33.39.108:9017/play/a00q
-#EXTINF:-1,Eurosport 2 HD
+#EXTINF:-1 tvg-id="Eurosport2 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_23/logo?aspect=16x9&height=32&imageFormat=png",Eurosport 2 HD
 http://193.33.39.108:9017/play/a00r
-#EXTINF:-1,Viasat Epic Drama HD
+#EXTINF:-1 tvg-id="Viasat Epic Drama" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_21/logo?aspect=16x9&height=32&imageFormat=png",Viasat Epic Drama HD
 http://193.33.39.108:9017/play/a01l
 
 
-#EXTINF:-1,Fashion TV
+#EXTINF:-1 tvg-id="Fashion TV" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_228/logo?aspect=16x9&height=32&imageFormat=png",Fashion TV
 http://193.33.39.108:9018/play/a01j
-#EXTINF:-1,Travel Channel
+#EXTINF:-1 tvg-id="Travel Channel HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_87/logo?aspect=16x9&height=32&imageFormat=png",Travel Channel
 http://193.33.39.108:9018/play/a02a
-#EXTINF:-1,Discovery HU
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_16/logo?aspect=16x9&height=32&imageFormat=png",Discovery HU
 http://193.33.39.108:9018/play/a014
-#EXTINF:-1,Duna
+#EXTINF:-1 tvg-id="Duna HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_18/logo?aspect=16x9&height=32&imageFormat=png",Duna
 http://193.33.39.108:9018/play/a01k
-#EXTINF:-1,Eurosport 2 HU
+#EXTINF:-1 tvg-id="Eurosport2 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_23/logo?aspect=16x9&height=32&imageFormat=png",Eurosport 2 HU
 http://193.33.39.108:9018/play/a01o
 #EXTINF:-1,HBO 2 Külföldi
 http://193.33.39.108:9018/play/a01f
-#EXTINF:-1,HBO HU
+#EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_154/logo?aspect=16x9&height=32&imageFormat=png",HBO HU
 http://193.33.39.108:9018/play/a01g
-#EXTINF:-1,M1
+#EXTINF:-1 tvg-id="M1 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_43/logo?aspect=16x9&height=32&imageFormat=png",M1
 http://193.33.39.108:9018/play/a01c
-#EXTINF:-1,ID Investigation Discovery
+#EXTINF:-1 tvg-id="ID" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_114/logo?aspect=16x9&height=32&imageFormat=png",ID Investigation Discovery
 http://193.33.39.108:9018/play/a00u
-#EXTINF:-1,Spektrum Home
+#EXTINF:-1 tvg-id="Spektrum Home HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_186/logo?aspect=16x9&height=32&imageFormat=png",Spektrum Home
 http://193.33.39.108:9018/play/a018
-#EXTINF:-1,M2/Petofi TV
+#EXTINF:-1 tvg-id="M2 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_44/logo?aspect=16x9&height=32&imageFormat=png",M2/Petofi TV
 http://193.33.39.108:9018/play/a01h
-#EXTINF:-1,SPORT 1
+#EXTINF:-1 tvg-id="Sport1 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_191/logo?aspect=16x9&height=32&imageFormat=png",SPORT 1
 http://193.33.39.108:9018/play/a01d
-#EXTINF:-1,SPORT 2
+#EXTINF:-1 tvg-id="Sport2 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_189/logo?aspect=16x9&height=32&imageFormat=png",SPORT 2
 http://193.33.39.108:9018/play/a01e
 
 
-#EXTINF:-1,DaVinci Learning
+#EXTINF:-1 tvg-id="Da Vinci" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_15/logo?aspect=16x9&height=32&imageFormat=png",DaVinci Learning
 http://193.33.39.108:9023/play/a013
-#EXTINF:-1,HGTV
+#EXTINF:-1 tvg-id="HGTV HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_222/logo?aspect=16x9&height=32&imageFormat=png",HGTV
 http://193.33.39.108:9023/play/a014
-#EXTINF:-1,Cinemax
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_126/logo?aspect=16x9&height=32&imageFormat=png",Cinemax
 http://193.33.39.108:9023/play/a01b
 
 #------------------------------------------
 
 #Innentől már több mp késés:
 
-#EXTINF:-1,AMC HD
+#EXTINF:-1 tvg-id="AMC HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_119/logo?aspect=16x9&height=32&imageFormat=png",AMC HD
 http://141.94.193.53:80/AMC_HD/index.m3u8
-#EXTINF:-1,AXN HD
+#EXTINF:-1 tvg-id="AXN HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_3/logo?aspect=16x9&height=32&imageFormat=png",AXN HD
 http://141.94.193.53:80/AXN_HD/index.m3u8
 #EXTINF:-1,FilmBox HD
 http://141.94.193.53:80/FilmBox/index.m3u8
 #EXTINF:-1,Viasat Explore_HD
 http://141.94.193.53:80/Viasat_Explore_HD/index.m3u8
-#EXTINF:-1,BBC Earth HD
+#EXTINF:-1 tvg-id="BBC Earth HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_224/logo?aspect=16x9&height=32&imageFormat=png",BBC Earth HD
 http://141.94.193.53:80/BBC_Earth_HD/index.m3u8
-#EXTINF:-1,History HD
+#EXTINF:-1 tvg-id="History HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_36/logo?aspect=16x9&height=32&imageFormat=png",History HD
 http://141.94.193.53:80/History_HD/index.m3u8
-#EXTINF:-1,Story4 HD
+#EXTINF:-1 tvg-id="Story4 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_84/logo?aspect=16x9&height=32&imageFormat=png",Story4 HD
 http://141.94.193.53:80/Story4_HD/index.m3u8
-#EXTINF:-1,Life TV HD
+#EXTINF:-1 tvg-id="Life TV" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_42/logo?aspect=16x9&height=32&imageFormat=png",Life TV HD
 http://141.94.193.53:80/LifeTV_HD/index.m3u8
 #EXTINF:-1,ATV Spirit HD
 http://141.94.193.53:80/ATV_Spirit_HD/index.m3u8
-#EXTINF:-1,EuroNews HD
+#EXTINF:-1 tvg-id="Euronews" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_108/logo?aspect=16x9&height=32&imageFormat=png",EuroNews HD
 http://141.94.193.53:80/EuroNews_HD/index.m3u8
-#EXTINF:-1,HBO HD
+#EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_154/logo?aspect=16x9&height=32&imageFormat=png",HBO HD
 http://141.94.193.53:80/HBO_HD/index.m3u8
-#EXTINF:-1,HBO2 HD
+#EXTINF:-1 tvg-id="HBO2 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_155/logo?aspect=16x9&height=32&imageFormat=png",HBO2 HD
 http://141.94.193.53:80/HBO2_HD/index.m3u8
-#EXTINF:-1,HBO3 HD
+#EXTINF:-1 tvg-id="HBO3 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_156/logo?aspect=16x9&height=32&imageFormat=png",HBO3 HD
 http://141.94.193.53:80/HBO3_HD/index.m3u8
-#EXTINF:-1,Cinemax HD
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_126/logo?aspect=16x9&height=32&imageFormat=png",Cinemax HD
 http://141.94.193.53:80/Cinemax_HD/index.m3u8
-#EXTINF:-1,Cinemax 2 HD
+#EXTINF:-1 tvg-id="Cinemax 2 HD" tvg-logo="https://imageservice.production4ig.opentv.com/images/v1/image/channel/MediaPressTV_127/logo?aspect=16x9&height=32&imageFormat=png",Cinemax 2 HD
 http://141.94.193.53:80/Cinemax_2_HD/index.m3u8
